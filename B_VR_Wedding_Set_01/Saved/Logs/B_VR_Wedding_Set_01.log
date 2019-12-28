@@ -757,3 +757,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.28-13.38.02:405][393]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
 [2019.12.28-13.38.06:355][393]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Saved/StartupMapBD91416F40205E1FB188D584BDCF39F4.tmp' to 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap.umap'
 [2019.12.28-13.38.06:520][393]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Saved/StartupMap_BuiltData16453FEC4164C9945B6FA383F67B3886.tmp' to 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2019.12.28-13.46.17:104][963]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={15CEFD91-4BE5-FD89-6CF5-9C942B0B0FCF}
+[2019.12.28-13.57.00:840][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.28-13.57.08:431][267]LogSlate: Window 'Source Control Login' being destroyed
+[2019.12.28-13.57.17:557][796]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
+[2019.12.28-13.57.17:650][796]EditorErrors: Warning: No assets to check in!
+[2019.12.28-13.57.36:927][271]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
+[2019.12.28-13.57.37:022][271]EditorErrors: Warning: No assets to check in!
