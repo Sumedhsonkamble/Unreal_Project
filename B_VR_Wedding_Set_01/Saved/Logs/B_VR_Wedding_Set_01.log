@@ -584,3 +584,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.28-13.59.34:611][110]LogSlate: Window 'Message Log' being destroyed
 [2019.12.28-13.59.34:617][110]LogSlate: Window 'Message Log' being destroyed
 [2019.12.28-13.59.39:087][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.28-14.00.14:441][623]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.12.28-14.00.14:831][623]LogSlate: Took 0.100669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.28-14.00.15:167][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.28-14.00.17:168][749]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
+[2019.12.28-14.00.17:259][749]EditorErrors: Warning: No assets to check in!
