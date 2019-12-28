@@ -591,3 +591,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.28-14.00.17:259][749]EditorErrors: Warning: No assets to check in!
 [2019.12.28-14.08.24:655][815]LogSlate: Took 0.025220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2019.12.28-14.08.32:635][947]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F4400FFA-43E0-243E-0848-C3965BBD7379}
+[2019.12.28-14.08.46:312][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-14.08.48:240][ 99]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
+[2019.12.28-14.08.48:341][ 99]EditorErrors: Warning: No assets to check in!
+[2019.12.28-14.08.50:766][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane36)
+[2019.12.28-14.08.52:175][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.12.28-14.08.52:340][322]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.12.28-14.08.53:951][417]Cmd: EDIT COPY
+[2019.12.28-14.08.54:481][417]Cmd: EDIT PASTE
+[2019.12.28-14.08.57:606][596]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.12.28-14.09.01:724][837]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.28-14.09.01:792][837]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.28-14.09.01:864][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.28-14.09.12:606][837]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Saved/StartupMap24F45DB946B8E8166629D48BE95826FA.tmp' to 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2019.12.28-14.09.12:739][837]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Saved/StartupMap_BuiltData675A77DB49F3C67963416DABF6CBC823.tmp' to 'C:/Users/adity/OneDrive/Documents/GitHub/Unreal_Project/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2019.12.28-14.09.26:634][659]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
+[2019.12.28-14.09.33:379][659]LogSlate: Window 'Submit Files' being destroyed
+[2019.12.28-14.09.34:326][659]LogSourceControl: commit successful: [master 5b43a0b] sdsddsdsd
+[2019.12.28-14.09.34:372][659]SourceControl: [master 5b43a0b] sdsddsdsd
+[2019.12.28-14.09.34:372][659]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2019.12.28-14.09.34:380][659]SourceControl: Commited [master 5b43a0b] sdsddsdsd.
+[2019.12.28-14.09.34:390][660]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={80FF76DE-4ED4-A722-D12D-5D9A8F01329C}
