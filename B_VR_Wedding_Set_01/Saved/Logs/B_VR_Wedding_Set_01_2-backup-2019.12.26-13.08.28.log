@@ -1,0 +1,1677 @@
+﻿Log file open, 12/26/19 18:17:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: B_VR_Wedding_Set_01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099583
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU:        Intel(R) Xeon(R) CPU E5-1650 0 @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=SumedhBilva -epicuserid=45ff30886d774851aacda4b39c22ad50 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.26-12.47.43:680][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.26-12.47.43:681][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.26-12.47.43:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:681][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:683][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.26-12.47.43:684][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:684][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.26-12.47.43:685][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.26-12.47.43:685][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.26-12.47.43:685][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.26-12.47.43:692][  0]LogHAL: Display: Platform has ~ 24 GB [25694416896 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.26-12.47.43:692][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.26-12.47.43:692][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.26-12.47.43:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.26-12.47.43:693][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Scalability.ini]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.26-12.47.43:694][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.26-12.47.43:694][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.26-12.47.43:695][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.26-12.47.43:695][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Config/Windows/Engine.ini]
+[2019.12.26-12.47.43:695][  0]LogInit: Computer: DESKTOP-0JQQOO0
+[2019.12.26-12.47.43:695][  0]LogInit: User: bilva
+[2019.12.26-12.47.43:695][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.26-12.47.43:695][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.26-12.47.43:695][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2019.12.26-12.47.43:695][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.26-12.47.43:695][  0]LogMemory: Process Physical Memory: 105.81 MB used, 105.82 MB peak
+[2019.12.26-12.47.43:695][  0]LogMemory: Process Virtual Memory: 93.61 MB used, 93.61 MB peak
+[2019.12.26-12.47.43:695][  0]LogMemory: Physical Memory: 11911.42 MB used,  12592.69 MB free, 24504.11 MB total
+[2019.12.26-12.47.43:695][  0]LogMemory: Virtual Memory: 4699.48 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.12.26-12.47.43:699][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.26-12.47.43:731][  0]LogInit: Using OS detected language (en-US).
+[2019.12.26-12.47.43:731][  0]LogInit: Using OS detected locale (en-IN).
+[2019.12.26-12.47.43:732][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.26-12.47.44:043][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.26-12.47.44:072][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.26-12.47.44:072][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.26-12.47.44:307][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.26-12.47.44:307][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.26-12.47.44:383][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.12.26-12.47.44:383][  0]LogD3D11RHI:       6052/0/12252 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.26-12.47.44:386][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.26-12.47.44:386][  0]LogD3D11RHI:       0/0/12252 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.26-12.47.44:386][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.26-12.47.44:395][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.26-12.47.44:395][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.26-12.47.44:395][  0]LogWindows: EnumDisplayDevices:
+[2019.12.26-12.47.44:396][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.12.26-12.47.44:396][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.26-12.47.44:397][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.26-12.47.44:397][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.26-12.47.44:397][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.26-12.47.44:397][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.12.26-12.47.44:397][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.26-12.47.44:397][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.26-12.47.44:397][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.26-12.47.44:457][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.26-12.47.44:471][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.26-12.47.44:898][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.26-12.47.44:914][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.26-12.47.44:930][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.26-12.47.44:941][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.26-12.47.44:953][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.26-12.47.44:964][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.26-12.47.44:976][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.26-12.47.44:987][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.26-12.47.44:993][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.26-12.47.45:032][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.26-12.47.45:036][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.26-12.47.45:059][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.26-12.47.45:059][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.26-12.47.45:077][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.26-12.47.45:077][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.26-12.47.45:086][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.26-12.47.45:096][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.26-12.47.45:107][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.26-12.47.45:120][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.26-12.47.45:154][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.26-12.47.45:154][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.26-12.47.45:154][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.26-12.47.45:167][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.26-12.47.45:253][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Intermediate/Shaders/WorkingDirectory/18752/).
+[2019.12.26-12.47.45:253][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bilva/AppData/Local/Temp/UnrealShaderWorkingDir/CB08147444783AFF4F81AC90BE247B65/'.
+[2019.12.26-12.47.45:258][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.26-12.47.45:258][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.26-12.47.45:258][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.26-12.47.46:061][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.26-12.47.46:153][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/bilva/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.26-12.47.46:154][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bilva/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.26-12.47.46:154][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/1.Projects/Unreal/B_VR_Wedding_Set_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.26-12.47.46:154][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.26-12.47.46:154][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/1.Projects/Unreal/B_VR_Wedding_Set_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.26-12.47.46:154][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.26-12.47.46:168][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.26-12.47.46:171][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.12.26-12.47.46:173][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bilva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.26-12.47.46:173][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.26-12.47.46:173][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.26-12.47.46:201][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.26-12.47.46:204][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.26-12.47.46:204][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.26-12.47.46:280][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2019.12.26-12.47.46:654][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.26-12.47.46:859][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.26-12.47.46:859][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.26-12.47.46:859][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.26-12.47.46:859][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.26-12.47.46:859][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.26-12.47.46:873][  0]LogNetVersion: B_VR_Wedding_Set_01 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3540923302)
+[2019.12.26-12.47.47:427][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.087787 seconds
+[2019.12.26-12.47.47:437][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.26-12.47.47:437][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.26-12.47.47:437][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.26-12.47.48:765][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.26-12.47.48:770][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.26-12.47.49:073][  0]SourceControl: Source control is disabled
+[2019.12.26-12.47.49:073][  0]SourceControl: Source control is disabled
+[2019.12.26-12.47.49:075][  0]SourceControl: Source control is disabled
+[2019.12.26-12.47.49:076][  0]SourceControl: Source control is disabled
+[2019.12.26-12.47.49:355][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.26-12.47.49:549][  0]LogOcInput: OculusInput pre-init called
+[2019.12.26-12.47.54:080][  0]LogEngine: Initializing Engine...
+[2019.12.26-12.47.54:081][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.26-12.47.54:083][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.26-12.47.54:379][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.26-12.47.54:400][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.26-12.47.54:471][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.26-12.47.54:503][  0]LogInit: FAudioDevice initialized.
+[2019.12.26-12.47.54:503][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.26-12.47.54:831][  0]LogDerivedDataCache: Saved boot cache 0.33s 95MB C:/Users/bilva/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.26-12.47.54:835][  0]LogInit: Texture streaming: Enabled
+[2019.12.26-12.47.54:862][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.26-12.47.54:862][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.26-12.47.54:863][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.26-12.47.54:922][  0]LogInit: Transaction tracking system initialized
+[2019.12.26-12.47.54:965][  0]BlueprintLog: New page: Editor Load
+[2019.12.26-12.47.55:074][  0]LocalizationService: Localization service is disabled
+[2019.12.26-12.47.55:394][  0]LogFileCache: Scanning file cache for directory 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/' took 0.00s
+[2019.12.26-12.47.55:394][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.26-12.47.55:394][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.26-12.47.57:454][  0]SourceControl: Source control is disabled
+[2019.12.26-12.47.57:454][  0]Cmd: MAP LOAD FILE="D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.26-12.47.57:454][  0]LightingResults: New page: Lighting Build
+[2019.12.26-12.47.57:460][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.26-12.47.57:460][  0]MapCheck: New page: Map Check
+[2019.12.26-12.47.57:460][  0]LightingResults: New page: Lighting Build
+[2019.12.26-12.47.57:494][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.26-12.47.59:047][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_12...
+[2019.12.26-12.47.59:051][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_12.3DGeom_13_Defintion_12
+[2019.12.26-12.47.59:065][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_10...
+[2019.12.26-12.47.59:066][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_10.3DGeom_13_Defintion_10
+[2019.12.26-12.47.59:067][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_5...
+[2019.12.26-12.47.59:068][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_5.3DGeom_13_Defintion_5
+[2019.12.26-12.47.59:069][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_11...
+[2019.12.26-12.47.59:070][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_11.3DGeom_13_Defintion_11
+[2019.12.26-12.47.59:071][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_23...
+[2019.12.26-12.47.59:072][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_23.3DGeom_19_Defintion_23
+[2019.12.26-12.47.59:072][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_22...
+[2019.12.26-12.47.59:073][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_22.3DGeom_19_Defintion_22
+[2019.12.26-12.47.59:074][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_21...
+[2019.12.26-12.47.59:075][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_21.3DGeom_19_Defintion_21
+[2019.12.26-12.47.59:076][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_20...
+[2019.12.26-12.47.59:076][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_20.3DGeom_19_Defintion_20
+[2019.12.26-12.47.59:077][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_2...
+[2019.12.26-12.47.59:078][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_2.3DGeom_19_Defintion_2
+[2019.12.26-12.47.59:078][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_19...
+[2019.12.26-12.47.59:079][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_19.3DGeom_19_Defintion_19
+[2019.12.26-12.47.59:079][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_29...
+[2019.12.26-12.47.59:080][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_29.3DGeom_19_Defintion_29
+[2019.12.26-12.47.59:081][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_28...
+[2019.12.26-12.47.59:081][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_28.3DGeom_19_Defintion_28
+[2019.12.26-12.47.59:265][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_27...
+[2019.12.26-12.47.59:267][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_27.3DGeom_19_Defintion_27
+[2019.12.26-12.47.59:267][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_26...
+[2019.12.26-12.47.59:268][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_26.3DGeom_19_Defintion_26
+[2019.12.26-12.47.59:268][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_25...
+[2019.12.26-12.47.59:269][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_25.3DGeom_19_Defintion_25
+[2019.12.26-12.47.59:269][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_24...
+[2019.12.26-12.47.59:270][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_24.3DGeom_19_Defintion_24
+[2019.12.26-12.47.59:275][  0]LogStaticMesh: Building static mesh SketchUp_Model_3...
+[2019.12.26-12.47.59:283][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/SketchUp_Model_3.SketchUp_Model_3
+[2019.12.26-12.47.59:284][  0]LogStaticMesh: Building static mesh SketchUp_Model_2...
+[2019.12.26-12.47.59:319][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/SketchUp_Model_2.SketchUp_Model_2
+[2019.12.26-12.47.59:322][  0]LogStaticMesh: Building static mesh SketchUp_Model...
+[2019.12.26-12.47.59:402][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/SketchUp_Model.SketchUp_Model
+[2019.12.26-12.47.59:410][  0]LogStaticMesh: Building static mesh retj_nh...
+[2019.12.26-12.47.59:416][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/retj_nh.retj_nh
+[2019.12.26-12.47.59:446][  0]LogStaticMesh: Building static mesh Pillar_1...
+[2019.12.26-12.47.59:463][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Pillar_1.Pillar_1
+[2019.12.26-12.47.59:464][  0]LogStaticMesh: Building static mesh lateral_ventana_cupula_1...
+[2019.12.26-12.47.59:470][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/lateral_ventana_cupula_1.lateral_ventana_cupula_1
+[2019.12.26-12.47.59:471][  0]LogStaticMesh: Building static mesh largero_2...
+[2019.12.26-12.47.59:517][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/largero_2.largero_2
+[2019.12.26-12.47.59:521][  0]LogStaticMesh: Building static mesh jkdfgh_3_2...
+[2019.12.26-12.47.59:538][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/jkdfgh_3_2.jkdfgh_3_2
+[2019.12.26-12.47.59:540][  0]LogStaticMesh: Building static mesh jkdfgh_3...
+[2019.12.26-12.47.59:558][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/jkdfgh_3.jkdfgh_3
+[2019.12.26-12.47.59:560][  0]LogStaticMesh: Building static mesh jkdfgh_1...
+[2019.12.26-12.47.59:566][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/jkdfgh_1.jkdfgh_1
+[2019.12.26-12.47.59:576][  0]LogStaticMesh: Building static mesh Grupo_966...
+[2019.12.26-12.47.59:580][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_966.Grupo_966
+[2019.12.26-12.47.59:590][  0]LogStaticMesh: Building static mesh Grupo_964...
+[2019.12.26-12.47.59:596][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_964.Grupo_964
+[2019.12.26-12.47.59:597][  0]LogStaticMesh: Building static mesh Grupo_961...
+[2019.12.26-12.47.59:634][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_961.Grupo_961
+[2019.12.26-12.47.59:650][  0]LogStaticMesh: Building static mesh Grupo_760...
+[2019.12.26-12.47.59:652][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_760.Grupo_760
+[2019.12.26-12.47.59:653][  0]LogStaticMesh: Building static mesh Grupo_759...
+[2019.12.26-12.47.59:701][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_759.Grupo_759
+[2019.12.26-12.47.59:708][  0]LogStaticMesh: Building static mesh Grupo_719...
+[2019.12.26-12.47.59:722][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_719.Grupo_719
+[2019.12.26-12.47.59:723][  0]LogStaticMesh: Building static mesh Grupo_718...
+[2019.12.26-12.47.59:735][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_718.Grupo_718
+[2019.12.26-12.47.59:736][  0]LogStaticMesh: Building static mesh Grupo_671...
+[2019.12.26-12.47.59:748][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_671.Grupo_671
+[2019.12.26-12.47.59:750][  0]LogStaticMesh: Building static mesh Grupo_662...
+[2019.12.26-12.47.59:765][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_662.Grupo_662
+[2019.12.26-12.47.59:767][  0]LogStaticMesh: Building static mesh Grupo_62...
+[2019.12.26-12.47.59:775][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_62.Grupo_62
+[2019.12.26-12.47.59:785][  0]LogStaticMesh: Building static mesh Grupo_517...
+[2019.12.26-12.47.59:843][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_517.Grupo_517
+[2019.12.26-12.47.59:855][  0]LogStaticMesh: Building static mesh Grupo_1213...
+[2019.12.26-12.47.59:864][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Grupo_1213.Grupo_1213
+[2019.12.26-12.47.59:866][  0]LogStaticMesh: Building static mesh Group_8_4...
+[2019.12.26-12.47.59:868][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Group_8_4.Group_8_4
+[2019.12.26-12.47.59:869][  0]LogStaticMesh: Building static mesh Group_8_3...
+[2019.12.26-12.47.59:872][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Group_8_3.Group_8_3
+[2019.12.26-12.47.59:872][  0]LogStaticMesh: Building static mesh Group_8_2...
+[2019.12.26-12.47.59:877][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Group_8_2.Group_8_2
+[2019.12.26-12.47.59:887][  0]LogStaticMesh: Building static mesh Group_8...
+[2019.12.26-12.47.59:999][  0]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Group_8.Group_8
+[2019.12.26-12.48.00:008][  0]LogStaticMesh: Building static mesh Group_3...
+[2019.12.26-12.48.00:012][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Group_3.Group_3
+[2019.12.26-12.48.00:012][  0]LogStaticMesh: Building static mesh ESCUADRA_PEQUENA_CUPULA_ESQUINA_6...
+[2019.12.26-12.48.00:027][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/ESCUADRA_PEQUENA_CUPULA_ESQUINA_6.ESCUADRA_PEQUENA_CUPULA_ESQUINA_6
+[2019.12.26-12.48.00:029][  0]LogStaticMesh: Building static mesh ESCUADRA_PEQUENA_CUPULA_ESQUINA_5...
+[2019.12.26-12.48.00:044][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/ESCUADRA_PEQUENA_CUPULA_ESQUINA_5.ESCUADRA_PEQUENA_CUPULA_ESQUINA_5
+[2019.12.26-12.48.00:045][  0]LogStaticMesh: Building static mesh CUPULA_PRINCIPAL_2_2...
+[2019.12.26-12.48.00:062][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/CUPULA_PRINCIPAL_2_2.CUPULA_PRINCIPAL_2_2
+[2019.12.26-12.48.00:063][  0]LogStaticMesh: Building static mesh CUPULA_PRINCIPAL_2...
+[2019.12.26-12.48.00:077][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/CUPULA_PRINCIPAL_2.CUPULA_PRINCIPAL_2
+[2019.12.26-12.48.00:079][  0]LogStaticMesh: Building static mesh Componente_21...
+[2019.12.26-12.48.00:087][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Componente_21.Componente_21
+[2019.12.26-12.48.00:088][  0]LogStaticMesh: Building static mesh Componente_13...
+[2019.12.26-12.48.00:093][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Componente_13.Componente_13
+[2019.12.26-12.48.00:094][  0]LogStaticMesh: Building static mesh Agrupar_91...
+[2019.12.26-12.48.00:104][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Agrupar_91.Agrupar_91
+[2019.12.26-12.48.00:105][  0]LogStaticMesh: Building static mesh Agrupar_60...
+[2019.12.26-12.48.00:109][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Agrupar_60.Agrupar_60
+[2019.12.26-12.48.00:110][  0]LogStaticMesh: Building static mesh Agrupar_279...
+[2019.12.26-12.48.00:122][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/Agrupar_279.Agrupar_279
+[2019.12.26-12.48.00:124][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_9...
+[2019.12.26-12.48.00:124][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_9.3DGeom_7_Defintion_9
+[2019.12.26-12.48.00:125][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_8...
+[2019.12.26-12.48.00:126][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_8.3DGeom_7_Defintion_8
+[2019.12.26-12.48.00:126][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_7...
+[2019.12.26-12.48.00:127][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_7.3DGeom_7_Defintion_7
+[2019.12.26-12.48.00:127][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_63...
+[2019.12.26-12.48.00:128][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_63.3DGeom_7_Defintion_63
+[2019.12.26-12.48.00:128][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_62...
+[2019.12.26-12.48.00:129][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_62.3DGeom_7_Defintion_62
+[2019.12.26-12.48.00:129][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_61...
+[2019.12.26-12.48.00:131][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_61.3DGeom_7_Defintion_61
+[2019.12.26-12.48.00:132][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_60...
+[2019.12.26-12.48.00:134][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_60.3DGeom_7_Defintion_60
+[2019.12.26-12.48.00:134][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_6...
+[2019.12.26-12.48.00:135][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_6.3DGeom_7_Defintion_6
+[2019.12.26-12.48.00:136][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_59...
+[2019.12.26-12.48.00:136][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_59.3DGeom_7_Defintion_59
+[2019.12.26-12.48.00:137][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_58...
+[2019.12.26-12.48.00:138][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_58.3DGeom_7_Defintion_58
+[2019.12.26-12.48.00:138][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_57...
+[2019.12.26-12.48.00:139][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_57.3DGeom_7_Defintion_57
+[2019.12.26-12.48.00:139][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_56...
+[2019.12.26-12.48.00:140][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_56.3DGeom_7_Defintion_56
+[2019.12.26-12.48.00:141][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_55...
+[2019.12.26-12.48.00:141][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_55.3DGeom_7_Defintion_55
+[2019.12.26-12.48.00:142][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_54...
+[2019.12.26-12.48.00:149][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_54.3DGeom_7_Defintion_54
+[2019.12.26-12.48.00:151][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_53...
+[2019.12.26-12.48.00:152][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_53.3DGeom_7_Defintion_53
+[2019.12.26-12.48.00:153][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_52...
+[2019.12.26-12.48.00:154][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_52.3DGeom_7_Defintion_52
+[2019.12.26-12.48.00:154][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_51...
+[2019.12.26-12.48.00:155][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_51.3DGeom_7_Defintion_51
+[2019.12.26-12.48.00:156][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_50...
+[2019.12.26-12.48.00:157][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_50.3DGeom_7_Defintion_50
+[2019.12.26-12.48.00:157][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_5...
+[2019.12.26-12.48.00:158][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_5.3DGeom_7_Defintion_5
+[2019.12.26-12.48.00:158][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_49...
+[2019.12.26-12.48.00:159][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_49.3DGeom_7_Defintion_49
+[2019.12.26-12.48.00:159][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_48...
+[2019.12.26-12.48.00:160][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_48.3DGeom_7_Defintion_48
+[2019.12.26-12.48.00:160][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_47...
+[2019.12.26-12.48.00:161][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_47.3DGeom_7_Defintion_47
+[2019.12.26-12.48.00:161][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_46...
+[2019.12.26-12.48.00:162][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_46.3DGeom_7_Defintion_46
+[2019.12.26-12.48.00:162][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_45...
+[2019.12.26-12.48.00:163][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_45.3DGeom_7_Defintion_45
+[2019.12.26-12.48.00:164][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_44...
+[2019.12.26-12.48.00:164][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_44.3DGeom_7_Defintion_44
+[2019.12.26-12.48.00:165][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_43...
+[2019.12.26-12.48.00:165][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_43.3DGeom_7_Defintion_43
+[2019.12.26-12.48.00:166][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_42...
+[2019.12.26-12.48.00:166][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_42.3DGeom_7_Defintion_42
+[2019.12.26-12.48.00:167][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_41...
+[2019.12.26-12.48.00:167][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_41.3DGeom_7_Defintion_41
+[2019.12.26-12.48.00:168][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_40...
+[2019.12.26-12.48.00:169][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_40.3DGeom_7_Defintion_40
+[2019.12.26-12.48.00:169][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_4...
+[2019.12.26-12.48.00:170][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_4.3DGeom_7_Defintion_4
+[2019.12.26-12.48.00:170][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_39...
+[2019.12.26-12.48.00:171][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_39.3DGeom_7_Defintion_39
+[2019.12.26-12.48.00:171][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_38...
+[2019.12.26-12.48.00:172][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_38.3DGeom_7_Defintion_38
+[2019.12.26-12.48.00:172][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_37...
+[2019.12.26-12.48.00:173][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_37.3DGeom_7_Defintion_37
+[2019.12.26-12.48.00:173][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_36...
+[2019.12.26-12.48.00:174][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_36.3DGeom_7_Defintion_36
+[2019.12.26-12.48.00:174][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_35...
+[2019.12.26-12.48.00:175][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_35.3DGeom_7_Defintion_35
+[2019.12.26-12.48.00:175][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_34...
+[2019.12.26-12.48.00:176][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_34.3DGeom_7_Defintion_34
+[2019.12.26-12.48.00:176][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_33...
+[2019.12.26-12.48.00:177][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_33.3DGeom_7_Defintion_33
+[2019.12.26-12.48.00:177][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_32...
+[2019.12.26-12.48.00:178][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_32.3DGeom_7_Defintion_32
+[2019.12.26-12.48.00:179][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_31...
+[2019.12.26-12.48.00:179][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_31.3DGeom_7_Defintion_31
+[2019.12.26-12.48.00:180][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_30...
+[2019.12.26-12.48.00:181][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_30.3DGeom_7_Defintion_30
+[2019.12.26-12.48.00:181][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_3...
+[2019.12.26-12.48.00:182][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_3.3DGeom_7_Defintion_3
+[2019.12.26-12.48.00:182][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_29...
+[2019.12.26-12.48.00:183][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_29.3DGeom_7_Defintion_29
+[2019.12.26-12.48.00:183][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_28...
+[2019.12.26-12.48.00:184][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_28.3DGeom_7_Defintion_28
+[2019.12.26-12.48.00:185][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_27...
+[2019.12.26-12.48.00:186][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_27.3DGeom_7_Defintion_27
+[2019.12.26-12.48.00:187][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_26...
+[2019.12.26-12.48.00:188][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_26.3DGeom_7_Defintion_26
+[2019.12.26-12.48.00:189][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_25...
+[2019.12.26-12.48.00:190][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_25.3DGeom_7_Defintion_25
+[2019.12.26-12.48.00:190][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_24...
+[2019.12.26-12.48.00:191][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_24.3DGeom_7_Defintion_24
+[2019.12.26-12.48.00:192][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_23...
+[2019.12.26-12.48.00:193][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_23.3DGeom_7_Defintion_23
+[2019.12.26-12.48.00:193][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_22...
+[2019.12.26-12.48.00:195][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_22.3DGeom_7_Defintion_22
+[2019.12.26-12.48.00:196][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_21...
+[2019.12.26-12.48.00:198][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_21.3DGeom_7_Defintion_21
+[2019.12.26-12.48.00:198][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_20...
+[2019.12.26-12.48.00:200][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_20.3DGeom_7_Defintion_20
+[2019.12.26-12.48.00:201][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_2...
+[2019.12.26-12.48.00:201][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_2.3DGeom_7_Defintion_2
+[2019.12.26-12.48.00:202][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_19...
+[2019.12.26-12.48.00:202][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_19.3DGeom_7_Defintion_19
+[2019.12.26-12.48.00:203][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_18...
+[2019.12.26-12.48.00:204][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_18.3DGeom_7_Defintion_18
+[2019.12.26-12.48.00:204][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_17...
+[2019.12.26-12.48.00:205][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_17.3DGeom_7_Defintion_17
+[2019.12.26-12.48.00:205][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_16...
+[2019.12.26-12.48.00:206][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_16.3DGeom_7_Defintion_16
+[2019.12.26-12.48.00:206][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_15...
+[2019.12.26-12.48.00:207][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_15.3DGeom_7_Defintion_15
+[2019.12.26-12.48.00:207][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_14...
+[2019.12.26-12.48.00:207][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_14.3DGeom_7_Defintion_14
+[2019.12.26-12.48.00:208][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_13...
+[2019.12.26-12.48.00:208][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_13.3DGeom_7_Defintion_13
+[2019.12.26-12.48.00:209][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_12...
+[2019.12.26-12.48.00:209][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_12.3DGeom_7_Defintion_12
+[2019.12.26-12.48.00:210][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_11...
+[2019.12.26-12.48.00:211][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_11.3DGeom_7_Defintion_11
+[2019.12.26-12.48.00:211][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion_10...
+[2019.12.26-12.48.00:212][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion_10.3DGeom_7_Defintion_10
+[2019.12.26-12.48.00:212][  0]LogStaticMesh: Building static mesh 3DGeom_7_Defintion...
+[2019.12.26-12.48.00:306][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_7_Defintion.3DGeom_7_Defintion
+[2019.12.26-12.48.00:325][  0]LogStaticMesh: Building static mesh 3DGeom_6_Defintion_5...
+[2019.12.26-12.48.00:326][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_6_Defintion_5.3DGeom_6_Defintion_5
+[2019.12.26-12.48.00:326][  0]LogStaticMesh: Building static mesh 3DGeom_6_Defintion_4...
+[2019.12.26-12.48.00:327][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_6_Defintion_4.3DGeom_6_Defintion_4
+[2019.12.26-12.48.00:327][  0]LogStaticMesh: Building static mesh 3DGeom_6_Defintion_3...
+[2019.12.26-12.48.00:328][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_6_Defintion_3.3DGeom_6_Defintion_3
+[2019.12.26-12.48.00:328][  0]LogStaticMesh: Building static mesh 3DGeom_6_Defintion_2...
+[2019.12.26-12.48.00:329][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_6_Defintion_2.3DGeom_6_Defintion_2
+[2019.12.26-12.48.00:329][  0]LogStaticMesh: Building static mesh 3DGeom_6_Defintion...
+[2019.12.26-12.48.00:332][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_6_Defintion.3DGeom_6_Defintion
+[2019.12.26-12.48.00:332][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_9...
+[2019.12.26-12.48.00:333][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_9.3DGeom_5_Defintion_9
+[2019.12.26-12.48.00:333][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_8...
+[2019.12.26-12.48.00:334][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_8.3DGeom_5_Defintion_8
+[2019.12.26-12.48.00:334][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_7...
+[2019.12.26-12.48.00:335][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_7.3DGeom_5_Defintion_7
+[2019.12.26-12.48.00:335][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_52...
+[2019.12.26-12.48.00:336][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_52.3DGeom_18_Defintion_52
+[2019.12.26-12.48.00:337][  0]LogStaticMesh: Building static mesh 3DGeom_17_Defintion_3...
+[2019.12.26-12.48.00:337][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_17_Defintion_3.3DGeom_17_Defintion_3
+[2019.12.26-12.48.00:338][  0]LogStaticMesh: Building static mesh 3DGeom_17_Defintion_2...
+[2019.12.26-12.48.00:338][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_17_Defintion_2.3DGeom_17_Defintion_2
+[2019.12.26-12.48.00:339][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_53...
+[2019.12.26-12.48.00:339][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_53.3DGeom_18_Defintion_53
+[2019.12.26-12.48.00:340][  0]LogStaticMesh: Building static mesh 3DGeom_17_Defintion...
+[2019.12.26-12.48.00:342][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_17_Defintion.3DGeom_17_Defintion
+[2019.12.26-12.48.00:343][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_9...
+[2019.12.26-12.48.00:343][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_9.3DGeom_16_Defintion_9
+[2019.12.26-12.48.00:344][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_8...
+[2019.12.26-12.48.00:345][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_8.3DGeom_16_Defintion_8
+[2019.12.26-12.48.00:346][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_7...
+[2019.12.26-12.48.00:346][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_7.3DGeom_16_Defintion_7
+[2019.12.26-12.48.00:347][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_6...
+[2019.12.26-12.48.00:347][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_6.3DGeom_16_Defintion_6
+[2019.12.26-12.48.00:348][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_5...
+[2019.12.26-12.48.00:348][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_5.3DGeom_16_Defintion_5
+[2019.12.26-12.48.00:349][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_4...
+[2019.12.26-12.48.00:349][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_4.3DGeom_16_Defintion_4
+[2019.12.26-12.48.00:350][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_3...
+[2019.12.26-12.48.00:350][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_3.3DGeom_16_Defintion_3
+[2019.12.26-12.48.00:351][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_2...
+[2019.12.26-12.48.00:352][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_2.3DGeom_16_Defintion_2
+[2019.12.26-12.48.00:353][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_14...
+[2019.12.26-12.48.00:353][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_14.3DGeom_16_Defintion_14
+[2019.12.26-12.48.00:354][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_15...
+[2019.12.26-12.48.00:355][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_15.3DGeom_3_Defintion_15
+[2019.12.26-12.48.00:355][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_14...
+[2019.12.26-12.48.00:356][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_14.3DGeom_3_Defintion_14
+[2019.12.26-12.48.00:356][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_13...
+[2019.12.26-12.48.00:358][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_13.3DGeom_3_Defintion_13
+[2019.12.26-12.48.00:358][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_12...
+[2019.12.26-12.48.00:359][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_12.3DGeom_3_Defintion_12
+[2019.12.26-12.48.00:359][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_11...
+[2019.12.26-12.48.00:361][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_11.3DGeom_3_Defintion_11
+[2019.12.26-12.48.00:361][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_10...
+[2019.12.26-12.48.00:362][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_10.3DGeom_3_Defintion_10
+[2019.12.26-12.48.00:362][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_5...
+[2019.12.26-12.48.00:363][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_5.3DGeom_3_Defintion_5
+[2019.12.26-12.48.00:363][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_4...
+[2019.12.26-12.48.00:364][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_4.3DGeom_3_Defintion_4
+[2019.12.26-12.48.00:364][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_3...
+[2019.12.26-12.48.00:365][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_3.3DGeom_3_Defintion_3
+[2019.12.26-12.48.00:365][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_2...
+[2019.12.26-12.48.00:366][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_2.3DGeom_3_Defintion_2
+[2019.12.26-12.48.00:366][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_17...
+[2019.12.26-12.48.00:367][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_17.3DGeom_3_Defintion_17
+[2019.12.26-12.48.00:367][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_16...
+[2019.12.26-12.48.00:368][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_16.3DGeom_3_Defintion_16
+[2019.12.26-12.48.00:368][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_10...
+[2019.12.26-12.48.00:369][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_10.3DGeom_4_Defintion_10
+[2019.12.26-12.48.00:370][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion...
+[2019.12.26-12.48.00:371][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion.3DGeom_4_Defintion
+[2019.12.26-12.48.00:371][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_9...
+[2019.12.26-12.48.00:372][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_9.3DGeom_3_Defintion_9
+[2019.12.26-12.48.00:372][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_8...
+[2019.12.26-12.48.00:373][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_8.3DGeom_3_Defintion_8
+[2019.12.26-12.48.00:373][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_7...
+[2019.12.26-12.48.00:374][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_7.3DGeom_3_Defintion_7
+[2019.12.26-12.48.00:374][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion_6...
+[2019.12.26-12.48.00:375][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion_6.3DGeom_3_Defintion_6
+[2019.12.26-12.48.00:375][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_6...
+[2019.12.26-12.48.00:376][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_6.3DGeom_5_Defintion_6
+[2019.12.26-12.48.00:376][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_5...
+[2019.12.26-12.48.00:377][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_5.3DGeom_5_Defintion_5
+[2019.12.26-12.48.00:377][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_4...
+[2019.12.26-12.48.00:378][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_4.3DGeom_5_Defintion_4
+[2019.12.26-12.48.00:378][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_3...
+[2019.12.26-12.48.00:497][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_3.3DGeom_5_Defintion_3
+[2019.12.26-12.48.00:521][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_23...
+[2019.12.26-12.48.00:522][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_23.3DGeom_5_Defintion_23
+[2019.12.26-12.48.00:522][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_22...
+[2019.12.26-12.48.00:523][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_22.3DGeom_5_Defintion_22
+[2019.12.26-12.48.00:523][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_5...
+[2019.12.26-12.48.00:524][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_5.3DGeom_4_Defintion_5
+[2019.12.26-12.48.00:525][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_4...
+[2019.12.26-12.48.00:525][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_4.3DGeom_4_Defintion_4
+[2019.12.26-12.48.00:526][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_3...
+[2019.12.26-12.48.00:527][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_3.3DGeom_4_Defintion_3
+[2019.12.26-12.48.00:527][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_2...
+[2019.12.26-12.48.00:528][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_2.3DGeom_4_Defintion_2
+[2019.12.26-12.48.00:529][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_12...
+[2019.12.26-12.48.00:529][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_12.3DGeom_4_Defintion_12
+[2019.12.26-12.48.00:530][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_11...
+[2019.12.26-12.48.00:531][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_11.3DGeom_4_Defintion_11
+[2019.12.26-12.48.00:531][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_10...
+[2019.12.26-12.48.00:532][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_10.3DGeom_5_Defintion_10
+[2019.12.26-12.48.00:532][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion...
+[2019.12.26-12.48.00:535][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion.3DGeom_5_Defintion
+[2019.12.26-12.48.00:536][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_9...
+[2019.12.26-12.48.00:536][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_9.3DGeom_4_Defintion_9
+[2019.12.26-12.48.00:537][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_8...
+[2019.12.26-12.48.00:537][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_8.3DGeom_4_Defintion_8
+[2019.12.26-12.48.00:538][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_7...
+[2019.12.26-12.48.00:539][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_7.3DGeom_4_Defintion_7
+[2019.12.26-12.48.00:539][  0]LogStaticMesh: Building static mesh 3DGeom_4_Defintion_6...
+[2019.12.26-12.48.00:540][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_4_Defintion_6.3DGeom_4_Defintion_6
+[2019.12.26-12.48.00:540][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_16...
+[2019.12.26-12.48.00:541][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_16.3DGeom_5_Defintion_16
+[2019.12.26-12.48.00:541][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_15...
+[2019.12.26-12.48.00:542][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_15.3DGeom_5_Defintion_15
+[2019.12.26-12.48.00:542][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_14...
+[2019.12.26-12.48.00:543][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_14.3DGeom_5_Defintion_14
+[2019.12.26-12.48.00:543][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_13...
+[2019.12.26-12.48.00:544][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_13.3DGeom_5_Defintion_13
+[2019.12.26-12.48.00:544][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_12...
+[2019.12.26-12.48.00:545][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_12.3DGeom_5_Defintion_12
+[2019.12.26-12.48.00:545][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_11...
+[2019.12.26-12.48.00:546][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_11.3DGeom_5_Defintion_11
+[2019.12.26-12.48.00:596][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_21...
+[2019.12.26-12.48.00:597][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_21.3DGeom_5_Defintion_21
+[2019.12.26-12.48.00:598][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_20...
+[2019.12.26-12.48.00:598][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_20.3DGeom_5_Defintion_20
+[2019.12.26-12.48.00:599][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_2...
+[2019.12.26-12.48.00:601][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_2.3DGeom_5_Defintion_2
+[2019.12.26-12.48.00:602][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_19...
+[2019.12.26-12.48.00:602][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_19.3DGeom_5_Defintion_19
+[2019.12.26-12.48.00:603][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_18...
+[2019.12.26-12.48.00:604][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_18.3DGeom_5_Defintion_18
+[2019.12.26-12.48.00:604][  0]LogStaticMesh: Building static mesh 3DGeom_5_Defintion_17...
+[2019.12.26-12.48.00:605][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_5_Defintion_17.3DGeom_5_Defintion_17
+[2019.12.26-12.48.00:605][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_4...
+[2019.12.26-12.48.00:606][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_4.3DGeom_13_Defintion_4
+[2019.12.26-12.48.00:607][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion...
+[2019.12.26-12.48.00:607][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion.3DGeom_13_Defintion
+[2019.12.26-12.48.00:608][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_59...
+[2019.12.26-12.48.00:609][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_59.3DGeom_18_Defintion_59
+[2019.12.26-12.48.00:609][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_58...
+[2019.12.26-12.48.00:610][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_58.3DGeom_18_Defintion_58
+[2019.12.26-12.48.00:611][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_57...
+[2019.12.26-12.48.00:612][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_57.3DGeom_18_Defintion_57
+[2019.12.26-12.48.00:612][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_56...
+[2019.12.26-12.48.00:613][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_56.3DGeom_18_Defintion_56
+[2019.12.26-12.48.00:613][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_55...
+[2019.12.26-12.48.00:614][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_55.3DGeom_18_Defintion_55
+[2019.12.26-12.48.00:615][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_54...
+[2019.12.26-12.48.00:622][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_54.3DGeom_18_Defintion_54
+[2019.12.26-12.48.00:623][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_51...
+[2019.12.26-12.48.00:624][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_51.3DGeom_18_Defintion_51
+[2019.12.26-12.48.00:625][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_50...
+[2019.12.26-12.48.00:625][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_50.3DGeom_18_Defintion_50
+[2019.12.26-12.48.00:626][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_5...
+[2019.12.26-12.48.00:626][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_5.3DGeom_18_Defintion_5
+[2019.12.26-12.48.00:627][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_49...
+[2019.12.26-12.48.00:627][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_49.3DGeom_18_Defintion_49
+[2019.12.26-12.48.00:628][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_48...
+[2019.12.26-12.48.00:628][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_48.3DGeom_18_Defintion_48
+[2019.12.26-12.48.00:629][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_47...
+[2019.12.26-12.48.00:629][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_47.3DGeom_18_Defintion_47
+[2019.12.26-12.48.00:630][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_46...
+[2019.12.26-12.48.00:631][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_46.3DGeom_18_Defintion_46
+[2019.12.26-12.48.00:631][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_45...
+[2019.12.26-12.48.00:632][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_45.3DGeom_18_Defintion_45
+[2019.12.26-12.48.00:632][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_44...
+[2019.12.26-12.48.00:633][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_44.3DGeom_18_Defintion_44
+[2019.12.26-12.48.00:633][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_43...
+[2019.12.26-12.48.00:634][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_43.3DGeom_18_Defintion_43
+[2019.12.26-12.48.00:634][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_42...
+[2019.12.26-12.48.00:635][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_42.3DGeom_18_Defintion_42
+[2019.12.26-12.48.00:635][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_41...
+[2019.12.26-12.48.00:636][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_41.3DGeom_18_Defintion_41
+[2019.12.26-12.48.00:689][  0]LogStaticMesh: Building static mesh 3DGeom_3_Defintion...
+[2019.12.26-12.48.00:719][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_3_Defintion.3DGeom_3_Defintion
+[2019.12.26-12.48.00:725][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_9...
+[2019.12.26-12.48.00:726][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_9.3DGeom_13_Defintion_9
+[2019.12.26-12.48.00:726][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_2...
+[2019.12.26-12.48.00:727][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_2.3DGeom_13_Defintion_2
+[2019.12.26-12.48.00:728][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_3...
+[2019.12.26-12.48.00:728][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_3.3DGeom_13_Defintion_3
+[2019.12.26-12.48.00:729][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_6...
+[2019.12.26-12.48.00:729][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_6.3DGeom_13_Defintion_6
+[2019.12.26-12.48.00:730][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_7...
+[2019.12.26-12.48.00:730][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_7.3DGeom_13_Defintion_7
+[2019.12.26-12.48.00:731][  0]LogStaticMesh: Building static mesh 3DGeom_13_Defintion_8...
+[2019.12.26-12.48.00:731][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_13_Defintion_8.3DGeom_13_Defintion_8
+[2019.12.26-12.48.00:732][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_9...
+[2019.12.26-12.48.00:733][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_9.3DGeom_14_Defintion_9
+[2019.12.26-12.48.00:733][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_3...
+[2019.12.26-12.48.00:852][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_3.3DGeom_14_Defintion_3
+[2019.12.26-12.48.00:876][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_4...
+[2019.12.26-12.48.00:877][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_4.3DGeom_14_Defintion_4
+[2019.12.26-12.48.00:877][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_5...
+[2019.12.26-12.48.00:878][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_5.3DGeom_14_Defintion_5
+[2019.12.26-12.48.00:878][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_6...
+[2019.12.26-12.48.00:879][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_6.3DGeom_14_Defintion_6
+[2019.12.26-12.48.01:014][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_7...
+[2019.12.26-12.48.01:015][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_7.3DGeom_14_Defintion_7
+[2019.12.26-12.48.01:015][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_8...
+[2019.12.26-12.48.01:016][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_8.3DGeom_14_Defintion_8
+[2019.12.26-12.48.01:016][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_10...
+[2019.12.26-12.48.01:017][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_10.3DGeom_14_Defintion_10
+[2019.12.26-12.48.01:018][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_11...
+[2019.12.26-12.48.01:019][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_11.3DGeom_14_Defintion_11
+[2019.12.26-12.48.01:019][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_12...
+[2019.12.26-12.48.01:020][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_12.3DGeom_14_Defintion_12
+[2019.12.26-12.48.01:020][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_13...
+[2019.12.26-12.48.01:021][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_13.3DGeom_14_Defintion_13
+[2019.12.26-12.48.01:022][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_14...
+[2019.12.26-12.48.01:023][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_14.3DGeom_14_Defintion_14
+[2019.12.26-12.48.01:024][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_15...
+[2019.12.26-12.48.01:026][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_15.3DGeom_14_Defintion_15
+[2019.12.26-12.48.01:027][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_16...
+[2019.12.26-12.48.01:029][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_16.3DGeom_14_Defintion_16
+[2019.12.26-12.48.01:030][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_17...
+[2019.12.26-12.48.01:031][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_17.3DGeom_14_Defintion_17
+[2019.12.26-12.48.01:033][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_18...
+[2019.12.26-12.48.01:034][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_18.3DGeom_14_Defintion_18
+[2019.12.26-12.48.01:035][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_19...
+[2019.12.26-12.48.01:036][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_19.3DGeom_14_Defintion_19
+[2019.12.26-12.48.01:038][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_20...
+[2019.12.26-12.48.01:039][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_20.3DGeom_14_Defintion_20
+[2019.12.26-12.48.01:040][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_21...
+[2019.12.26-12.48.01:042][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_21.3DGeom_14_Defintion_21
+[2019.12.26-12.48.01:043][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_22...
+[2019.12.26-12.48.01:044][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_22.3DGeom_14_Defintion_22
+[2019.12.26-12.48.01:045][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_23...
+[2019.12.26-12.48.01:045][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_23.3DGeom_14_Defintion_23
+[2019.12.26-12.48.01:046][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion...
+[2019.12.26-12.48.01:049][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion.3DGeom_14_Defintion
+[2019.12.26-12.48.01:309][  0]LogStaticMesh: Building static mesh 3DGeom_14_Defintion_2...
+[2019.12.26-12.48.01:312][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_14_Defintion_2.3DGeom_14_Defintion_2
+[2019.12.26-12.48.01:313][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_9...
+[2019.12.26-12.48.01:314][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_9.3DGeom_15_Defintion_9
+[2019.12.26-12.48.01:315][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_10...
+[2019.12.26-12.48.01:317][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_10.3DGeom_15_Defintion_10
+[2019.12.26-12.48.01:318][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_11...
+[2019.12.26-12.48.01:319][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_11.3DGeom_15_Defintion_11
+[2019.12.26-12.48.01:320][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion...
+[2019.12.26-12.48.01:359][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion.3DGeom_15_Defintion
+[2019.12.26-12.48.01:366][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_2...
+[2019.12.26-12.48.01:367][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_2.3DGeom_15_Defintion_2
+[2019.12.26-12.48.01:367][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_3...
+[2019.12.26-12.48.01:368][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_3.3DGeom_15_Defintion_3
+[2019.12.26-12.48.01:368][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_4...
+[2019.12.26-12.48.01:369][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_4.3DGeom_15_Defintion_4
+[2019.12.26-12.48.01:369][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_5...
+[2019.12.26-12.48.01:370][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_5.3DGeom_15_Defintion_5
+[2019.12.26-12.48.01:370][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_6...
+[2019.12.26-12.48.01:371][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_6.3DGeom_15_Defintion_6
+[2019.12.26-12.48.01:372][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_7...
+[2019.12.26-12.48.01:372][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_7.3DGeom_15_Defintion_7
+[2019.12.26-12.48.01:373][  0]LogStaticMesh: Building static mesh 3DGeom_15_Defintion_8...
+[2019.12.26-12.48.01:373][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_15_Defintion_8.3DGeom_15_Defintion_8
+[2019.12.26-12.48.01:374][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_10...
+[2019.12.26-12.48.01:375][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_10.3DGeom_16_Defintion_10
+[2019.12.26-12.48.01:376][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_11...
+[2019.12.26-12.48.01:376][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_11.3DGeom_16_Defintion_11
+[2019.12.26-12.48.01:377][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_12...
+[2019.12.26-12.48.01:377][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_12.3DGeom_16_Defintion_12
+[2019.12.26-12.48.01:378][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion_13...
+[2019.12.26-12.48.01:379][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion_13.3DGeom_16_Defintion_13
+[2019.12.26-12.48.01:379][  0]LogStaticMesh: Building static mesh 3DGeom_16_Defintion...
+[2019.12.26-12.48.01:381][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_16_Defintion.3DGeom_16_Defintion
+[2019.12.26-12.48.01:382][  0]LogStaticMesh: Building static mesh 3DGeom_17_Defintion_4...
+[2019.12.26-12.48.01:383][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_17_Defintion_4.3DGeom_17_Defintion_4
+[2019.12.26-12.48.01:383][  0]LogStaticMesh: Building static mesh 3DGeom_17_Defintion_5...
+[2019.12.26-12.48.01:384][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_17_Defintion_5.3DGeom_17_Defintion_5
+[2019.12.26-12.48.01:384][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_9...
+[2019.12.26-12.48.01:385][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_9.3DGeom_18_Defintion_9
+[2019.12.26-12.48.01:386][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_35...
+[2019.12.26-12.48.01:386][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_35.3DGeom_18_Defintion_35
+[2019.12.26-12.48.01:387][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_36...
+[2019.12.26-12.48.01:388][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_36.3DGeom_18_Defintion_36
+[2019.12.26-12.48.01:388][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_37...
+[2019.12.26-12.48.01:389][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_37.3DGeom_18_Defintion_37
+[2019.12.26-12.48.01:389][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_38...
+[2019.12.26-12.48.01:390][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_38.3DGeom_18_Defintion_38
+[2019.12.26-12.48.01:390][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_39...
+[2019.12.26-12.48.01:391][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_39.3DGeom_18_Defintion_39
+[2019.12.26-12.48.01:392][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_40...
+[2019.12.26-12.48.01:393][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_40.3DGeom_18_Defintion_40
+[2019.12.26-12.48.01:393][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_10...
+[2019.12.26-12.48.01:394][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_10.3DGeom_18_Defintion_10
+[2019.12.26-12.48.01:395][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_11...
+[2019.12.26-12.48.01:395][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_11.3DGeom_18_Defintion_11
+[2019.12.26-12.48.01:396][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_60...
+[2019.12.26-12.48.01:398][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_60.3DGeom_18_Defintion_60
+[2019.12.26-12.48.01:398][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_61...
+[2019.12.26-12.48.01:400][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_61.3DGeom_18_Defintion_61
+[2019.12.26-12.48.01:401][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_62...
+[2019.12.26-12.48.01:402][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_62.3DGeom_18_Defintion_62
+[2019.12.26-12.48.01:402][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_63...
+[2019.12.26-12.48.01:403][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_63.3DGeom_18_Defintion_63
+[2019.12.26-12.48.01:403][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_12...
+[2019.12.26-12.48.01:404][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_12.3DGeom_18_Defintion_12
+[2019.12.26-12.48.01:405][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion...
+[2019.12.26-12.48.01:503][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion.3DGeom_18_Defintion
+[2019.12.26-12.48.01:524][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_2...
+[2019.12.26-12.48.01:525][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_2.3DGeom_18_Defintion_2
+[2019.12.26-12.48.01:526][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_3...
+[2019.12.26-12.48.01:527][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_3.3DGeom_18_Defintion_3
+[2019.12.26-12.48.01:528][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_4...
+[2019.12.26-12.48.01:528][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_4.3DGeom_18_Defintion_4
+[2019.12.26-12.48.01:529][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_6...
+[2019.12.26-12.48.01:530][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_6.3DGeom_18_Defintion_6
+[2019.12.26-12.48.01:530][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_7...
+[2019.12.26-12.48.01:531][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_7.3DGeom_18_Defintion_7
+[2019.12.26-12.48.01:531][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_8...
+[2019.12.26-12.48.01:532][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_8.3DGeom_18_Defintion_8
+[2019.12.26-12.48.01:532][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_13...
+[2019.12.26-12.48.01:533][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_13.3DGeom_18_Defintion_13
+[2019.12.26-12.48.01:534][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_14...
+[2019.12.26-12.48.01:535][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_14.3DGeom_18_Defintion_14
+[2019.12.26-12.48.01:535][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_15...
+[2019.12.26-12.48.01:536][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_15.3DGeom_18_Defintion_15
+[2019.12.26-12.48.01:536][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_16...
+[2019.12.26-12.48.01:537][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_16.3DGeom_18_Defintion_16
+[2019.12.26-12.48.01:537][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_17...
+[2019.12.26-12.48.01:538][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_17.3DGeom_18_Defintion_17
+[2019.12.26-12.48.01:539][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_18...
+[2019.12.26-12.48.01:539][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_18.3DGeom_18_Defintion_18
+[2019.12.26-12.48.01:540][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_19...
+[2019.12.26-12.48.01:540][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_19.3DGeom_18_Defintion_19
+[2019.12.26-12.48.01:541][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_20...
+[2019.12.26-12.48.01:542][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_20.3DGeom_18_Defintion_20
+[2019.12.26-12.48.01:543][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_21...
+[2019.12.26-12.48.01:545][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_21.3DGeom_18_Defintion_21
+[2019.12.26-12.48.01:547][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_22...
+[2019.12.26-12.48.01:548][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_22.3DGeom_18_Defintion_22
+[2019.12.26-12.48.01:548][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_23...
+[2019.12.26-12.48.01:549][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_23.3DGeom_18_Defintion_23
+[2019.12.26-12.48.01:550][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_24...
+[2019.12.26-12.48.01:551][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_24.3DGeom_18_Defintion_24
+[2019.12.26-12.48.01:551][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_25...
+[2019.12.26-12.48.01:552][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_25.3DGeom_18_Defintion_25
+[2019.12.26-12.48.01:552][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_26...
+[2019.12.26-12.48.01:553][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_26.3DGeom_18_Defintion_26
+[2019.12.26-12.48.01:554][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_27...
+[2019.12.26-12.48.01:554][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_27.3DGeom_18_Defintion_27
+[2019.12.26-12.48.01:555][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_28...
+[2019.12.26-12.48.01:556][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_28.3DGeom_18_Defintion_28
+[2019.12.26-12.48.01:556][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_29...
+[2019.12.26-12.48.01:557][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_29.3DGeom_18_Defintion_29
+[2019.12.26-12.48.01:558][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_30...
+[2019.12.26-12.48.01:558][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_30.3DGeom_18_Defintion_30
+[2019.12.26-12.48.01:559][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_31...
+[2019.12.26-12.48.01:559][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_31.3DGeom_18_Defintion_31
+[2019.12.26-12.48.01:560][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_32...
+[2019.12.26-12.48.01:561][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_32.3DGeom_18_Defintion_32
+[2019.12.26-12.48.01:561][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_33...
+[2019.12.26-12.48.01:562][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_33.3DGeom_18_Defintion_33
+[2019.12.26-12.48.01:562][  0]LogStaticMesh: Building static mesh 3DGeom_18_Defintion_34...
+[2019.12.26-12.48.01:563][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_18_Defintion_34.3DGeom_18_Defintion_34
+[2019.12.26-12.48.01:564][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_9...
+[2019.12.26-12.48.01:565][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_9.3DGeom_19_Defintion_9
+[2019.12.26-12.48.01:566][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_6...
+[2019.12.26-12.48.01:567][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_6.3DGeom_19_Defintion_6
+[2019.12.26-12.48.01:568][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_7...
+[2019.12.26-12.48.01:569][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_7.3DGeom_19_Defintion_7
+[2019.12.26-12.48.01:569][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_8...
+[2019.12.26-12.48.01:570][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_8.3DGeom_19_Defintion_8
+[2019.12.26-12.48.01:571][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_10...
+[2019.12.26-12.48.01:572][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_10.3DGeom_19_Defintion_10
+[2019.12.26-12.48.01:573][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_11...
+[2019.12.26-12.48.01:573][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_11.3DGeom_19_Defintion_11
+[2019.12.26-12.48.01:574][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_12...
+[2019.12.26-12.48.01:575][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_12.3DGeom_19_Defintion_12
+[2019.12.26-12.48.01:575][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_13...
+[2019.12.26-12.48.01:576][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_13.3DGeom_19_Defintion_13
+[2019.12.26-12.48.01:576][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_14...
+[2019.12.26-12.48.01:577][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_14.3DGeom_19_Defintion_14
+[2019.12.26-12.48.01:577][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_15...
+[2019.12.26-12.48.01:578][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_15.3DGeom_19_Defintion_15
+[2019.12.26-12.48.01:579][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_16...
+[2019.12.26-12.48.01:579][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_16.3DGeom_19_Defintion_16
+[2019.12.26-12.48.01:580][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_17...
+[2019.12.26-12.48.01:583][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_17.3DGeom_19_Defintion_17
+[2019.12.26-12.48.01:583][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_18...
+[2019.12.26-12.48.01:584][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_18.3DGeom_19_Defintion_18
+[2019.12.26-12.48.01:585][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_30...
+[2019.12.26-12.48.01:585][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_30.3DGeom_19_Defintion_30
+[2019.12.26-12.48.01:586][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion...
+[2019.12.26-12.48.01:587][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion.3DGeom_19_Defintion
+[2019.12.26-12.48.01:587][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_3...
+[2019.12.26-12.48.01:588][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_3.3DGeom_19_Defintion_3
+[2019.12.26-12.48.01:588][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_4...
+[2019.12.26-12.48.01:589][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_4.3DGeom_19_Defintion_4
+[2019.12.26-12.48.01:589][  0]LogStaticMesh: Building static mesh 3DGeom_19_Defintion_5...
+[2019.12.26-12.48.01:591][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_19_Defintion_5.3DGeom_19_Defintion_5
+[2019.12.26-12.48.01:591][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_9...
+[2019.12.26-12.48.01:592][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_9.3DGeom_1_Defintion_9
+[2019.12.26-12.48.01:593][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_10...
+[2019.12.26-12.48.01:595][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_10.3DGeom_1_Defintion_10
+[2019.12.26-12.48.01:595][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_11...
+[2019.12.26-12.48.01:597][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_11.3DGeom_1_Defintion_11
+[2019.12.26-12.48.01:598][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_12...
+[2019.12.26-12.48.01:598][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_12.3DGeom_1_Defintion_12
+[2019.12.26-12.48.01:599][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_13...
+[2019.12.26-12.48.01:600][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_13.3DGeom_1_Defintion_13
+[2019.12.26-12.48.01:600][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_14...
+[2019.12.26-12.48.01:601][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_14.3DGeom_1_Defintion_14
+[2019.12.26-12.48.01:602][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_15...
+[2019.12.26-12.48.01:602][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_15.3DGeom_1_Defintion_15
+[2019.12.26-12.48.01:603][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_16...
+[2019.12.26-12.48.01:604][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_16.3DGeom_1_Defintion_16
+[2019.12.26-12.48.01:604][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_17...
+[2019.12.26-12.48.01:605][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_17.3DGeom_1_Defintion_17
+[2019.12.26-12.48.01:606][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_18...
+[2019.12.26-12.48.01:606][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_18.3DGeom_1_Defintion_18
+[2019.12.26-12.48.01:607][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion...
+[2019.12.26-12.48.01:608][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion.3DGeom_1_Defintion
+[2019.12.26-12.48.01:608][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_19...
+[2019.12.26-12.48.01:609][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_19.3DGeom_1_Defintion_19
+[2019.12.26-12.48.01:610][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_2...
+[2019.12.26-12.48.01:610][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_2.3DGeom_1_Defintion_2
+[2019.12.26-12.48.01:611][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_3...
+[2019.12.26-12.48.01:612][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_3.3DGeom_1_Defintion_3
+[2019.12.26-12.48.01:612][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_4...
+[2019.12.26-12.48.01:613][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_4.3DGeom_1_Defintion_4
+[2019.12.26-12.48.01:613][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_5...
+[2019.12.26-12.48.01:614][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_5.3DGeom_1_Defintion_5
+[2019.12.26-12.48.01:614][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_6...
+[2019.12.26-12.48.01:615][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_6.3DGeom_1_Defintion_6
+[2019.12.26-12.48.01:616][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_7...
+[2019.12.26-12.48.01:616][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_7.3DGeom_1_Defintion_7
+[2019.12.26-12.48.01:617][  0]LogStaticMesh: Building static mesh 3DGeom_1_Defintion_8...
+[2019.12.26-12.48.01:620][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_1_Defintion_8.3DGeom_1_Defintion_8
+[2019.12.26-12.48.01:621][  0]LogStaticMesh: Building static mesh 3DGeom_2_Defintion...
+[2019.12.26-12.48.01:622][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_2_Defintion.3DGeom_2_Defintion
+[2019.12.26-12.48.01:622][  0]LogStaticMesh: Building static mesh 3DGeom_20_Defintion...
+[2019.12.26-12.48.01:623][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Layout_Skp/stage_and_layout_2/Geometries/3DGeom_20_Defintion.3DGeom_20_Defintion
+[2019.12.26-12.48.01:679][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.26-12.48.01:950][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.26-12.48.02:017][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.12.26-12.48.02:017][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.26-12.48.02:018][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.813ms to complete.
+[2019.12.26-12.48.02:018][  0]LogFileHelpers: Loading map 'StartupMap' took 4.565
+[2019.12.26-12.48.02:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.26-12.48.02:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.26-12.48.02:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.26-12.48.02:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.26-12.48.02:249][  0]LogCollectionManager: Loaded 0 collections in 0.002219 seconds
+[2019.12.26-12.48.02:257][  0]LogFileCache: Scanning file cache for directory 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Collections/' took 0.00s
+[2019.12.26-12.48.02:257][  0]LogFileCache: Scanning file cache for directory 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/Developers/bilva/Collections/' took 0.00s
+[2019.12.26-12.48.02:257][  0]LogFileCache: Scanning file cache for directory 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/Collections/' took 0.00s
+[2019.12.26-12.48.02:257][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.26-12.48.02:267][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3055 classes and 782 folders.
+[2019.12.26-12.48.02:276][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.26-12.48.02:349][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.26-12.48.02:353][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.12.26-12.48.02:396][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.26-12.48.02:399][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.26-12.48.02:409][  0]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.26-12.48.02:506][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2019.12.26-12.48.02:743][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.26-12.48.02:743][  0]LogLoad: (Engine Initialization) Total time: 21.63 seconds
+[2019.12.26-12.48.02:743][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.26-12.48.02:805][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.26-12.48.02:835][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.26-12.48.02:872][  1]LogAssetRegistry: Asset discovery search completed in 16.5931 seconds
+[2019.12.26-12.48.02:876][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.26-12.48.02:876][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.12.26-12.48.04:213][  5]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.26-12.50.55:688][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-12.50.55:832][901]LogSlate: Window 'Plugins' being destroyed
+[2019.12.26-12.50.55:837][901]LogSlate: Window 'Plugins' being destroyed
+[2019.12.26-12.50.55:837][901]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.12.26-12.50.55:837][901]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.23/Enterprise/Plugins/' was aborted.
+[2019.12.26-12.50.58:142][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-12.52.01:608][304]LogSlate: Window 'Content Browser 3' being destroyed
+[2019.12.26-12.52.01:612][304]LogSlate: Window 'Content Browser 3' being destroyed
+[2019.12.26-12.52.08:263][ 27]LogSlate: Window 'Content Browser' being destroyed
+[2019.12.26-12.52.08:267][ 27]LogSlate: Window 'Content Browser' being destroyed
+[2019.12.26-12.58.02:325][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.26-12.58.03:951][119]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B2A3C2CE-4206-BE0F-13EF-98BC3B2AE743}
+[2019.12.26-12.58.16:124][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-12.58.20:413][947]LogActorFactory: Actor Factory created Cube
+[2019.12.26-12.58.21:793][ 93]LogActorFactory: Actor Factory created Cube
+[2019.12.26-12.58.23:619][254]LogSlate: Took 0.038131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.26-12.58.24:992][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-12.58.56:110][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.26-12.59.01:239][483]LogSavePackage: Moving 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/StartupMap_Auto1F695F694412812E3371007B879FE4082.tmp' to 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap'
+[2019.12.26-12.59.01:248][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 5.172
+[2019.12.26-12.59.01:248][483]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.172
+[2019.12.26-12.59.06:335][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-12.59.36:956][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Model)
+[2019.12.26-12.59.38:980][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grupo_961)
+[2019.12.26-12.59.39:752][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Model)
+[2019.12.26-12.59.43:436][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.12.26-12.59.43:828][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.26-13.00.08:502][453]Cmd: EDIT COPY
+[2019.12.26-13.00.08:991][498]Cmd: EDIT PASTE
+[2019.12.26-13.03.28:000][752]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.26-13.03.33:144][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.12.26-13.03.35:307][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.26-13.03.36:174][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.12.26-13.03.40:769][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-13.06.40:235][491]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.26-13.06.44:982][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-13.08.07:299][171]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.26-13.08.11:146][519]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.26-13.08.14:055][811]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.26-13.08.14:112][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.26-13.08.19:012][811]LogSavePackage: Moving 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/StartupMap5BFC340247B3177AC813869591C5F499.tmp' to 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2019.12.26-13.08.19:038][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/StartupMap_BuiltData" FILE="D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" SILENT=true
+[2019.12.26-13.08.19:096][811]LogSavePackage: Moving 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Saved/StartupMap_BuiltDataB0D412CF4006C34F6767C89A79569B17.tmp' to 'D:/1.Projects/Unreal/B_VR_Wedding_Set_01/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2019.12.26-13.08.24:905][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.26-13.08.25:356][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.26-13.08.25:386][392]LogSlate: Window 'B_VR_Wedding_Set_01 - Unreal Editor' being destroyed
+[2019.12.26-13.08.25:482][393]Cmd: QUIT_EDITOR
+[2019.12.26-13.08.25:498][393]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.26-13.08.25:504][393]LogExit: Preparing to exit.
+[2019.12.26-13.08.26:376][393]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.26-13.08.26:376][393]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.26-13.08.26:455][393]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.26-13.08.26:467][393]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.26-13.08.26:467][393]LogExit: Editor shut down
+[2019.12.26-13.08.26:467][393]LogExit: Transaction tracking system shut down
+[2019.12.26-13.08.26:849][393]LogExit: Object subsystem successfully closed.
+[2019.12.26-13.08.26:887][393]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.26-13.08.26:956][393]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (746)
+[2019.12.26-13.08.26:956][393]LogModuleManager: Shutting down and abandoning module SceneOutliner (744)
+[2019.12.26-13.08.26:956][393]LogModuleManager: Shutting down and abandoning module AddContentDialog (742)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module WidgetCarousel (741)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module CollectionManager (736)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module MeshBuilder (734)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module StatsViewer (732)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (730)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module FoliageEdit (728)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module LandscapeEditor (726)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module MeshPaintMode (724)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (722)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module ActorPickerMode (720)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module GeometryMode (718)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module TextureAlignMode (716)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module BspMode (714)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (712)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (710)
+[2019.12.26-13.08.26:957][393]LogModuleManager: Shutting down and abandoning module AutomationWorker (708)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (706)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (704)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (702)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module OculusMR (700)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (698)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (696)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (694)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module PlacementMode (693)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module MaterialEditor (692)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (688)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (686)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (684)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (682)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (680)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module WebMMedia (678)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (676)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (674)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module SequenceRecorder (673)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (670)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (668)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (666)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (664)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (662)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (660)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (658)
+[2019.12.26-13.08.26:958][393]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (656)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (654)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (652)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (650)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module CharacterAI (648)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module SmartSnapping (646)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module SessionServices (644)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module MeshPaint (642)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module ViewportSnapping (640)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module ViewportInteraction (638)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module ClothPainter (636)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (635)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module LogVisualizer (632)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module IntroTutorials (630)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (629)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (626)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (624)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (622)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (620)
+[2019.12.26-13.08.26:959][393]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (619)
+[2019.12.26-13.08.27:756][393]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (616)
+[2019.12.26-13.08.27:756][393]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (614)
+[2019.12.26-13.08.27:756][393]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (612)
+[2019.12.26-13.08.27:756][393]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (610)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (608)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module InputBindingEditor (606)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module MergeActors (604)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (602)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module LocalizationService (601)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module HardwareTargeting (598)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (596)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module UndoHistory (594)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module XmlParser (592)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module Blutility (590)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (588)
+[2019.12.26-13.08.27:757][393]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (587)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (584)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module SettingsEditor (582)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module ProjectLauncher (580)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module SessionFrontend (578)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module ProfilerClient (576)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module DeviceManager (574)
+[2019.12.26-13.08.27:758][393]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (573)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module AutomationController (570)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module AutomationWindow (568)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module Layers (566)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (564)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module DetailCustomizations (562)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module PackagesDialog (560)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (558)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module Persona (556)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module AnimGraph (555)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module Kismet (552)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module KismetWidgets (551)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module GraphEditor (548)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module StructViewer (546)
+[2019.12.26-13.08.27:803][393]LogModuleManager: Shutting down and abandoning module ClassViewer (544)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module Toolbox (542)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module ModuleUI (540)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module MovieSceneTools (538)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module OutputLog (536)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module GammaUI (534)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module Documentation (532)
+[2019.12.26-13.08.27:804][393]LogModuleManager: Shutting down and abandoning module LiveCoding (530)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module LevelSequence (528)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (526)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module MovieScene (524)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (522)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module LauncherPlatform (520)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module AnalyticsET (518)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module PortalServices (516)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module PortalRpc (514)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module MessagingRpc (512)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module AIModule (510)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module GameplayDebugger (509)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module AITestSuite (507)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module NavigationSystem (505)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module DesktopPlatform (502)
+[2019.12.26-13.08.27:805][393]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (500)
+[2019.12.26-13.08.27:813][393]LogModuleManager: Shutting down and abandoning module ProfilerService (498)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module TaskGraph (496)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithCADTranslator (494)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithC4DImporter (492)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module VariantManager (490)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (488)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (487)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module MDLImporter (484)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithCoreTechExtension (482)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (481)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (480)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithOpenNurbsTranslator (476)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithNativeTranslator (474)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithIFCImporter (472)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (470)
+[2019.12.26-13.08.27:848][393]LogModuleManager: Shutting down and abandoning module DatasmithImporter (469)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module ScreenshotTools (466)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module SteamVRController (464)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (462)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (460)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module OculusEditor (458)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module OculusInput (456)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (454)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module EditableMesh (452)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (450)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module CableComponent (448)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module AudioCapture (446)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (444)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (442)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module AppleImageUtils (440)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module AndroidPermission (438)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (436)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (434)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module MediaCompositing (432)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module ImgMedia (430)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (428)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (426)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (424)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module HTML5Networking (422)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (420)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (419)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (416)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (414)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (412)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (410)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module DataprepLibraries (408)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module DataprepCore (406)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module DataprepEditor (404)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (402)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module BlastCore (400)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module BlastAuthoring (398)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module BackChannel (396)
+[2019.12.26-13.08.27:849][393]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (394)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module AutomationUtils (392)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module AlembicImporter (390)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module AlembicLibrary (389)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module GeometryCache (388)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (387)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module VariantManagerContent (382)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (380)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (378)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module PluginBrowser (376)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (374)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module PolygonModeling (372)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module MeshEditor (370)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (368)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module GLTFImporter (366)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (364)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module CurveEditorTools (362)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module CurveEditor (361)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (358)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module CryptoKeys (356)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (354)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (352)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module UObjectPlugin (350)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (348)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (346)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module GitSourceControl (344)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module SourceControl (343)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (340)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module MultiUserClient (338)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module ConcertSyncUI (336)
+[2019.12.26-13.08.27:850][393]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (334)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module SignificanceManager (316)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (314)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (312)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (308)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module SQLiteCore (306)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module ActorSequence (304)
+[2019.12.26-13.08.27:851][393]LogModuleManager: Shutting down and abandoning module UdpMessaging (302)
+[2019.12.26-13.08.27:952][393]LogModuleManager: Shutting down and abandoning module TcpMessaging (300)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (298)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (296)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (294)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (292)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module MagicLeapController (290)
+[2019.12.26-13.08.28:053][393]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module MagicLeapAR (288)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module AugmentedReality (287)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (284)
+[2019.12.26-13.08.28:053][393]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (282)
+[2019.12.26-13.08.28:054][393]LogModuleManager: Shutting down and abandoning module FacialAnimation (280)
+[2019.12.26-13.08.28:054][393]LogModuleManager: Shutting down and abandoning module DataValidation (278)
+[2019.12.26-13.08.28:054][393]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2019.12.26-13.08.28:054][393]LogModuleManager: Shutting down and abandoning module LevelEditor (275)
+[2019.12.26-13.08.28:055][393]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (274)
+[2019.12.26-13.08.28:055][393]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (272)
+[2019.12.26-13.08.28:056][393]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2019.12.26-13.08.28:056][393]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2019.12.26-13.08.28:057][393]LogModuleManager: Shutting down and abandoning module ContentBrowser (265)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module TreeMap (263)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (260)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module Concert (258)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module ConcertTransport (257)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.26-13.08.28:059][393]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.26-13.08.28:060][393]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.26-13.08.28:064][393]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.26-13.08.28:066][393]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.26-13.08.28:100][393]LogDerivedDataCache: Shutdown
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.26-13.08.28:100][393]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.26-13.08.28:101][393]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.26-13.08.28:101][393]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.26-13.08.28:101][393]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.26-13.08.28:101][393]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.26-13.08.28:101][393]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.26-13.08.28:102][393]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.26-13.08.28:102][393]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.26-13.08.28:103][393]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.26-13.08.28:103][393]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.26-13.08.28:110][393]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.26-13.08.28:110][393]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.26-13.08.28:111][393]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.26-13.08.28:111][393]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.26-13.08.28:112][393]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.26-13.08.28:112][393]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.26-13.08.28:122][393]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.26-13.08.28:122][393]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.26-13.08.28:122][393]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0D383D2A-44FF-BE81-DC1E-77A3BF72775A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=1a6c80bb4276a51d73590f92a0c21aff%7C45ff30886d774851aacda4b39c22ad50%7C890f8b1c-b3a4-4684-ae6b-97b5ba60759e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.26-13.08.28:140][393]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.26-13.08.28:142][393]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.26-13.08.28:145][393]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.26-13.08.28:147][393]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.26-13.08.28:148][393]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.26-13.08.28:148][393]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.26-13.08.28:148][393]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.26-13.08.28:148][393]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.26-13.08.28:151][393]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.26-13.08.28:152][393]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.26-13.08.28:152][393]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.26-13.08.28:152][393]LogD3D11RHI: Shutdown
+[2019.12.26-13.08.28:153][393]LogD3D11RHI: CleanupD3DDevice
+[2019.12.26-13.08.28:162][393]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.26-13.08.28:162][393]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.26-13.08.28:162][393]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.26-13.08.28:329][393]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.26-13.08.28:346][393]LogExit: Exiting.
+[2019.12.26-13.08.28:371][393]Log file closed, 12/26/19 18:38:28
