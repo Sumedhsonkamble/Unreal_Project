@@ -589,3 +589,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.28-14.00.15:167][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.28-14.00.17:168][749]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
 [2019.12.28-14.00.17:259][749]EditorErrors: Warning: No assets to check in!
+[2019.12.28-14.08.24:655][815]LogSlate: Took 0.025220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.28-14.08.32:635][947]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F4400FFA-43E0-243E-0848-C3965BBD7379}
