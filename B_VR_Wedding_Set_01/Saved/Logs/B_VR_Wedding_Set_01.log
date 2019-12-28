@@ -586,3 +586,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.28-14.23.19:037][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.28-14.23.21:405][561]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
 [2019.12.28-14.23.21:515][561]EditorErrors: Warning: No assets to check in!
+[2019.12.28-14.29.11:597][745]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={81500909-4EB8-E3C0-2EFC-60876662B009}
+[2019.12.28-14.33.11:839][465]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={149FE449-4C18-B71E-86FF-3794B9C32028}
+[2019.12.28-14.35.28:305][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.28-14.35.29:952][195]SourceControl: fatal: D:/00_UNREAL_Installation/UE_4.23/Engine/Content: 'D:/00_UNREAL_Installation/UE_4.23/Engine/Content' is outside repository
+[2019.12.28-14.35.30:039][195]EditorErrors: Warning: No assets to check in!
