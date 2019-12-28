@@ -612,3 +612,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.28-14.09.34:372][659]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2019.12.28-14.09.34:380][659]SourceControl: Commited [master 5b43a0b] sdsddsdsd.
 [2019.12.28-14.09.34:390][660]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={80FF76DE-4ED4-A722-D12D-5D9A8F01329C}
+[2019.12.28-14.13.30:685][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2019.12.28-14.13.31:346][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane37)
+[2019.12.28-14.13.32:271][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane36)
+[2019.12.28-14.13.33:097][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane37)
